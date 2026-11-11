@@ -1,0 +1,24 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+"scripts": {
+    "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarayGD21/pruebas-unitarias-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SarayGD21/pruebas-unitarias-js/issues"
+  },
+  "homepage": "https://github.com/SarayGD21/pruebas-unitarias-js#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
